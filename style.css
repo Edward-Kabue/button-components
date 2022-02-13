@@ -1,7 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+
 body {
+  font-family: "Poppins", sans-serif;
+}
+
+.title-name {
+  padding-top: 47px;
   font-family: "Poppins", sans-serif;
 }
 
 .logo-color {
   color: #f7542e;
+}
+
+#menu {
+  font-family: "Poppins", sans-serif;
+}
+
+.button-title {
+  padding-top: 57px;
+  padding-left: 83px;
+  font-family: "Poppins", sans-serif;
+}
+
+.second {
+  padding-top: 45px;
+}
+
+.third {
+  padding-top: 45px;
 }
